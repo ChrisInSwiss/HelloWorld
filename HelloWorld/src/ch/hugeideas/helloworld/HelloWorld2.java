@@ -1,3 +1,4 @@
+package ch.hugeideas.helloworld;
 
 public class HelloWorld2 {
 
